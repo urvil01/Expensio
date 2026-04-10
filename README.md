@@ -65,8 +65,3 @@ expensio/
 
 Urvil Dudakiya
 
----
-
-## ⭐ Disclaimer
-
-The project is suitable for beginners learning JavaScript.
