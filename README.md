@@ -63,7 +63,7 @@ expensio/
 
 ## 🙌 Developer
 
-Urvil Gajjar
+Urvil Dudakiya
 
 ---
 
